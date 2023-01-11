@@ -97,4 +97,6 @@ All Top 100 to 1 App donwnload data from `apptweak.com` included more countries 
 Without apptweak that I can't get the data.
 
 ## Buy me coffee
-
+|Shiba | BTC | ETC | DOGE
+|-----------|-----------|----------|----------|
+|<img src="donate/shib.JPG" width="80%">|<img src="donate/btc.JPG" width="80%">|<img src="donate/eth.JPG" width="80%">|<img src="donate/doge.JPG" width="80%">|
