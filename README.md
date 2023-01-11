@@ -1,5 +1,14 @@
 # App Download Data
-All data from `apptweak.com` included more countries both App Store and Play Store from 01/10/2022 to 01/10/2023.
+All data from `apptweak.com` included more countries both App Store and Play Store for one year.
+
+## Preview
+|Map View |
+|-----------|
+|<img src="1.png" width="100%">|
+|Chart View |
+|<img src="2.png" width="100%">|
+|Table View |
+|<img src="3.png" width="100%">|
 
 ## App Store's App Category that include:
 - All Categories
