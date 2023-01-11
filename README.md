@@ -1,5 +1,5 @@
 # App Download Data
-All data from `apptweak.com` included more countries both App Store and Play Store for one year.
+All Top 100 to 1 App donwnload data from `apptweak.com` included more countries both App Store and Play Store for one year.
 
 ## Preview
 |Map View |
@@ -10,7 +10,7 @@ All data from `apptweak.com` included more countries both App Store and Play Sto
 |Table View |
 |<img src="3.png" width="100%">|
 
-## App Store's App Category that include:
+## App Store's App Categories:
 - All Categories
 - Books
 - Business
@@ -37,7 +37,7 @@ All data from `apptweak.com` included more countries both App Store and Play Sto
 - Utilities
 - Weather
 
-## Android's App Category that include:
+## Android's App Categories:
 - All Categories
 - Application
 - Art & Design
@@ -73,7 +73,7 @@ All data from `apptweak.com` included more countries both App Store and Play Sto
 - Wear OS by Google
 - Weather
 
-## Game Category that include:
+## Game Categories:
 - Game
 - Games - Action
 - Games - Adventure
