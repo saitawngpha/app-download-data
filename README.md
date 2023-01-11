@@ -1,7 +1,7 @@
 # App Download Data
 All data from `apptweak.com` included more countries both App Store and Play Store from 01/10/2022 to 01/10/2023.
 
-## App Category that include:
+## App Store's App Category that include:
 - All Categories
 - Books
 - Business
@@ -27,6 +27,8 @@ All data from `apptweak.com` included more countries both App Store and Play Sto
 - Travel
 - Utilities
 - Weather
+
+## Android's App Category that include:
 - All Categories
 - Application
 - Art & Design
