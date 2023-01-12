@@ -99,4 +99,4 @@ Without apptweak that I can't get the data.
 ## Buy me coffee
 |Shiba | BTC | ETH | DOGE
 |-----------|-----------|----------|----------|
-|<img src="donate/shib.JPG" width="80%">|<img src="donate/btc.JPG" width="80%">|<img src="donate/eth.JPG" width="80%">|<img src="donate/doge.JPG" width="80%">|
+|<img src="donate/shib.JPG" width="100%">|<img src="donate/btc.JPG" width="100%">|<img src="donate/eth.JPG" width="100%">|<img src="donate/doge.JPG" width="100%">|
